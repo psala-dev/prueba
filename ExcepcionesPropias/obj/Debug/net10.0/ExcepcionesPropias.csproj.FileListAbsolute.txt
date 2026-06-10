@@ -1,0 +1,15 @@
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\bin\Debug\net10.0\ExcepcionesPropias.deps.json
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\bin\Debug\net10.0\ExcepcionesPropias.runtimeconfig.json
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\bin\Debug\net10.0\ExcepcionesPropias.dll
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\bin\Debug\net10.0\ExcepcionesPropias.pdb
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\obj\Debug\net10.0\ExcepcionesPropias.csproj.AssemblyReference.cache
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\obj\Debug\net10.0\ExcepcionesPropias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\obj\Debug\net10.0\ExcepcionesPropias.AssemblyInfoInputs.cache
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\obj\Debug\net10.0\ExcepcionesPropias.AssemblyInfo.cs
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\obj\Debug\net10.0\ExcepcionesPropias.csproj.CoreCompileInputs.cache
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\obj\Debug\net10.0\ExcepcionesPropias.sourcelink.json
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\obj\Debug\net10.0\ExcepcionesPropias.dll
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\obj\Debug\net10.0\refint\ExcepcionesPropias.dll
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\obj\Debug\net10.0\ExcepcionesPropias.pdb
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\obj\Debug\net10.0\ExcepcionesPropias.genruntimeconfig.cache
+C:\Users\paoos\source\repos\Obligatorio-N3B-356869-352208\ObligatorioDW\ExcepcionesPropias\obj\Debug\net10.0\ref\ExcepcionesPropias.dll
